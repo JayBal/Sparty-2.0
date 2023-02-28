@@ -1,6 +1,6 @@
 # Sparty-2.0
 
-Sparty-2.0 is an  tool written in Python to audit web applications using Sharepoint and Frontpage Architecture. This Tool gathers information, check access permissions, dump critical information from default files and perform automated exploitation if security risks are identified. 
+Sparty-2.0 is a tool written in Python to audit web applications using Sharepoint and Frontpage Architecture. This Tool gathers information, check access permissions, dump critical information from default files and perform automated exploitation if security risks are identified. 
 
 ![sparty](https://user-images.githubusercontent.com/29165227/119223005-c09a2680-bb14-11eb-86b8-b8eaf5c7e62e.PNG)
 
